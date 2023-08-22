@@ -1,0 +1,12 @@
+# env
+quiz/
+
+__pycache__/
+*.py[code]
+
+.Python
+
+db.sqlite3
+.DS_Store
+
+.vscode/
